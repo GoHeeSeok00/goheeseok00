@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+my blog link : https://a-littlecoding.tistory.com/
+
 <!--
 **GoHeeSeok00/goheeseok00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
