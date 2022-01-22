@@ -14,19 +14,21 @@
   I enjoy movies and computer games. <br/>
   My goal is to develop services that will make life easier.. ✨ <br/><br/>
 </p>
-
+</div>
   
-  ## ✨  GitHub Stats
-<details> 
-  <br />
-  <summary>👩‍💻 Heeseok's Profile Stats </summary>    
-  <a href="https://github.com/GoHeeSeok00/GoHeeSeok00">  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoHeeSeok00&hide=java&theme=buefy&langs_count=3" />
-  </a>
-  <br />
-  <br />
-  <a href="https://github.com/GoHeeSeok00/GoHeeSeok00">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GoHeeSeok00&custom_title=heeseok's+Github+Stats&line_height=27&count_private=true&theme=buefy&show_icons=true" alt="heeseok's GitHub Stats" />
-</a>
+<div align=center> 
+  <div>
+  </div>
+  
+## ✨  GitHub Stats
+  <details> 
+    <br />
+    <summary>👩‍💻 Heeseok's Profile Stats </summary>    
+    <a href="https://github.com/GoHeeSeok00/GoHeeSeok00">  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoHeeSeok00&hide=java&theme=buefy&langs_count=3" />
+    </a>
+    <a href="https://github.com/GoHeeSeok00/GoHeeSeok00">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GoHeeSeok00&custom_title=heeseok's+Github+Stats&line_height=27&count_private=true&theme=buefy&show_icons=true" alt="heeseok's GitHub Stats" />
+    </a>
   </details>
  
 <details> 
@@ -39,8 +41,9 @@
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GoHeeSeok00&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </details>
 
-  
-  
+</div>
+
+<div align=center> 
 
 ## Platforms & Languages
 <p>
@@ -64,5 +67,4 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
-</div>
 </div>
