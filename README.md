@@ -15,10 +15,26 @@
   My goal is to develop services that will make life easier.. ✨ <br/><br/>
 </p>
 
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GoHeeSeok00&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoHeeSeok00&layout=compact&hide_border=true&theme=white)
   
+  ## ✨  GitHub Stats
+<details> 
+  <br />
+  <summary>👩‍💻 Heeseok's Profile Stats </summary>    
+  <a href="https://github.com/GoHeeSeok00/GoHeeSeok00">  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoHeeSeok00&hide=java&theme=buefy&langs_count=3" />
+  </a>
+  <br />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GoHeeSeok00&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+</details>
  
+<details> 
+  <summary>📊 3D Profile Stats</summary>
+    
+  ![](./profile-3d-contrib/profile-south-season-animate.svg)
 
+  <br />
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GoHeeSeok00&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+</details>
 
   
   
@@ -40,9 +56,10 @@
   <br>
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</p>
+
+      <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+      <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+    </p>
+
 </div>
 </div>
