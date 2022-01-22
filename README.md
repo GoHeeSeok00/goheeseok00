@@ -9,10 +9,7 @@
   
 </p>
 <p>
-  Hello I am a new developer web development.<br/>
-  We are working on it based on Python DJango.<br/><br/>
-  I enjoy movies and computer games. <br/>
-  My goal is to develop services that will make life easier.. ✨ <br/><br/>
+  Hello I am a new Python developer.<br/>
 </p>
 </div>
   
