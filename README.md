@@ -24,7 +24,11 @@
   </a>
   <br />
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GoHeeSeok00&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-</details>
+
+  <a href="https://github.com/GoHeeSeok00/GoHeeSeok00">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GoHeeSeok00&custom_title=heeseok's+Github+Stats&line_height=27&count_private=true&theme=buefy&show_icons=false" alt="heeseok's GitHub Stats" />
+</a>
+  </details>
  
 <details> 
   <summary>📊 3D Profile Stats</summary>
