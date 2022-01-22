@@ -23,10 +23,8 @@
   <a href="https://github.com/GoHeeSeok00/GoHeeSeok00">  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoHeeSeok00&hide=java&theme=buefy&langs_count=3" />
   </a>
   <br />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GoHeeSeok00&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-
   <a href="https://github.com/GoHeeSeok00/GoHeeSeok00">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GoHeeSeok00&custom_title=heeseok's+Github+Stats&line_height=27&count_private=true&theme=buefy&show_icons=false" alt="heeseok's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GoHeeSeok00&custom_title=heeseok's+Github+Stats&line_height=27&count_private=true&theme=buefy&show_icons=true" alt="heeseok's GitHub Stats" />
 </a>
   </details>
  
@@ -61,9 +59,9 @@
 </p>
 
 
-      <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-      <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-    </p>
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</p>
 
 </div>
 </div>
