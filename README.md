@@ -23,6 +23,7 @@
   <a href="https://github.com/GoHeeSeok00/GoHeeSeok00">  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoHeeSeok00&hide=java&theme=buefy&langs_count=3" />
   </a>
   <br />
+  <br />
   <a href="https://github.com/GoHeeSeok00/GoHeeSeok00">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GoHeeSeok00&custom_title=heeseok's+Github+Stats&line_height=27&count_private=true&theme=buefy&show_icons=true" alt="heeseok's GitHub Stats" />
 </a>
