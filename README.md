@@ -9,8 +9,11 @@
 </p>
 </div>
   
+
 <div align=center> 
-  <div>
+  <div> 
+    <a href="https://github.com/GoHeeSeok00/GoHeeSeok00">  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoHeeSeok00&layout=compact&hide_border=true" />
+    </a>
   </div>
   
 ## ✨  GitHub Stats
