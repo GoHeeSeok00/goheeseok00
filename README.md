@@ -4,7 +4,7 @@
   </p>
 
 <p>
-  <h3> Hi guys 👋 </h3> 
+  <h3> Hi guys 👋 </h3>  
   Hello I am a new Python developer.<br/>
 </p>
 </div>
