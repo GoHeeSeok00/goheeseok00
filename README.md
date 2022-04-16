@@ -5,7 +5,12 @@
 
 <p>
   <h3> Hi guys 👋 </h3>  
-  Hello I am a new Python developer.<br/>
+  안녕하세요. 백엔드 개발자 고희석입니다.<br/>
+  주요 관심사는 파이썬과 장고입니다.<br/>
+  <br/><br/>
+  <b>blog : </b> https://a-littlecoding.tistory.com/
+  
+  
 </p>
 </div>
   
