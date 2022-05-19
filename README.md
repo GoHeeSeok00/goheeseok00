@@ -29,16 +29,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=GoHeeSeok00&custom_title=heeseok's+Github+Stats&line_height=27&count_private=true&theme=buefy&show_icons=true" alt="heeseok's GitHub Stats" />
     </a>
   </details>
- 
-<details> 
-  <summary>📊 3D Profile Stats</summary>
-    
-  ![](./profile-3d-contrib/profile-south-season-animate.svg)
-
-  <br />
-
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GoHeeSeok00&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-</details>
 
 </div>
 
