@@ -24,9 +24,10 @@
   
   여러분의 좋은 동료가 되고 싶습니다.😎 <br/>
   
-  <br/><br/>
-  <b>blog : </b> https://a-littlecoding.tistory.com/
   
+  <b>blog : </b> https://a-littlecoding.tistory.com/
+  <br/>
+  <br/>
   
 </p>
 </div>
