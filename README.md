@@ -14,27 +14,26 @@
   
   안녕하세요. 백엔드 개발자 <b>고희석</b>입니다. <br/>
   
-  가장 자신있는 분야는 <b>파이썬과 장고</b>입니다. 💪<br/>
+  가장 자신있는 기술은 <b>파이썬과 장고</b>입니다. 💪<br/>
   
   최근 <b>DRF</b>를 공부하고 있으며, <b>RESTful</b>하게 개발하려고 노력합니다. <br/>
   
-  ERD와 모델 설계는 ERDCloud 툴을 사용하고 있습니다. <br/>
+  ERDCloud, Figma, Notion을 사용해 자료를 <b>문서화</b> 하고 <b>시각화</b>합니다. <br/>
   
-  API 테스트는 postman 툴을 사용하고 있으며 주로 Form-data와 Json 타입을 이용합니다. <br/>
+  API 테스트는 postman을 사용하고 있습니다. <br/>
   
   깃허브와 노션, 슬랙, 디스코드, 지라 등의 협업을 위한 툴을 다뤄봤습니다. 👯‍♂️<br/>
   
   깃허브 컨벤션(브렌치, 이슈, PR), <b>커밋 컨벤션</b>, <b>코드 컨벤션</b>에 맞춰 협업합니다. <br/>
   
-  작은 블로그를 운영하고 있으며 코딩테스트 알고리즘 문제 풀이, 
+  작은 기술 블로그를 운영하고 있으며 코딩테스트 알고리즘 문제 풀이, 
   
-  교육과정 및 개인 공부에 대한 내용과 고민 등을 포스팅하고 있습니다.✏ <br/>
+  교육과정 및 개인 공부에 대한 내용과 고민 등을 포스팅하며 <b>꾸준히 공부합니다.</b>✏ <br/>
   
   <b>여러분의 좋은 동료가 되고 싶습니다.😎</b> <br/>
   
   
   <b>blog : </b> https://a-littlecoding.tistory.com/
-  <br/>
   <br/>
   
 </p>
@@ -73,8 +72,6 @@
 <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=plastic&logo=amazon aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white"/>
 
-
-<br>
 <br>
 
 ### ☘ Sub
