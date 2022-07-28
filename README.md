@@ -60,25 +60,44 @@
 
 ## 🎇 Skill 🎇
 
-<br>
+### 🍀 Main
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white"/>
-
-<br>
-<br>
-
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=redis&logoColor=white"/>
 
 <br>
 <br>
 
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=plastic&logo=amazon aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=plastic&logo=amazon aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=plastic&logo=amazon aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nginx-brightgreen?style=plastic&logo=nginx&logoColor=white"/>
+
 
 <br>
 <br>
+
+### ☘ Sub
+
+<img src="https://img.shields.io/badge/Amazon S3-569A31?style=plastic&logo=amazon aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=plastic&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gunicorn-499848?style=plastic&logo=gunicorn&logoColor=white"/>
+
+<br>
+<br>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white"/>
+
+<br>
+<br>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white"/>
 
 </div>
