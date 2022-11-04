@@ -12,25 +12,7 @@
 <p>
   <h3> Hi guys 👋 </h3>  
   
-  안녕하세요. 백엔드 개발자 <b>고희석</b>입니다. <br/>
-  
-  <b>Python</b> 언어와 <b>Djnago</b> 프레임워크로 웹서비스 개발에 주력하고 있습니다. 💪<br/>
-  
-  <b>DRF</b>를 이용해, <b>RESTful</b>하게 개발합니다. <br/>
- 
-  깃허브와 노션, 슬랙, 디스코드, 지라 등의 협업을 위한 툴을 다뤄봤습니다. 👯‍♂️<br/>
-  
-  깃허브 컨벤션(브렌치, 이슈, PR), <b>커밋 컨벤션</b>, <b>코드 컨벤션</b>에 맞춰 협업합니다. <br/>
-  
-  작은 기술 블로그를 운영하고 있으며 코딩테스트 알고리즘 문제 풀이, 
-  
-  교육과정 및 개인 공부에 대한 내용과 고민 등을 포스팅하며 <b>꾸준히 학습합니다.</b> ✏<br/>
-  
-  ERDCloud, Figma, Notion을 사용해 데이터를 <b>문서화</b> 하고 <b>시각화</b>합니다. 📑<br/>
-  
-  API 테스트는 postman을 사용하고 있습니다. <br/>
- 
-  <b>여러분의 좋은 동료가 되고 싶습니다.😎</b> <br/>
+  안녕하세요. JavaScript, Python 개발자입니다.
   
   
   <b>blog : </b> https://a-littlecoding.tistory.com/
@@ -57,7 +39,7 @@
 
 <div align=center> 
 
-## 🎇 Skill 🎇
+<!-- ## 🎇 Skill 🎇
 
 ### 🍀 Main
 
@@ -97,4 +79,4 @@
 <img src="https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white"/>
 
-</div>
+</div> -->
