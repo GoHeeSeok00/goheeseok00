@@ -12,7 +12,7 @@
 <p>
   <h3> Hi guys 👋 </h3>  
   
-  안녕하세요. JavaScript, Python 개발자입니다.
+  안녕하세요. TypeScript 언어를 주로 사용하는 웹 개발자입니다.
   
   
   <b>blog : </b> https://a-littlecoding.tistory.com/
